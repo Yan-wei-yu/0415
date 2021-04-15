@@ -1,0 +1,10 @@
+li.nav-item{
+    font-family: 'Noto Sans HK', sans-serif;
+    font-family: 'Noto Sans TC', sans-serif;
+    font-family: 'Noto Serif TC', serif;
+}
+ol.carousel-indicators li {
+    width: 20px;
+    height: 20px;
+    background-color :rgba(0, 0, 0, 0.8) 
+}     
